@@ -1,6 +1,6 @@
 # Personal webpage 
 
-## Introduction
+### Introduction
 
 This page will house info about me and my personal projects, based on Jekyll and GitHub Pages.
 
