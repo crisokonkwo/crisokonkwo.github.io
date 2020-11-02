@@ -1,0 +1,11 @@
+---
+title: 'Project 1'
+subtitle: 'Project 1 coming soon!'
+date: 2020-11-1 00:00:00
+description: This page will house all my future projects.
+featured_image: 
+---
+
+![](/images/demo/demo-landscape.jpg)
+
+## Project 1 content
