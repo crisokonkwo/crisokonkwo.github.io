@@ -36,5 +36,5 @@ Society of Women Engineers, Member <br>
 
 
 <br>
-Please feel free to download my resume for considerations.<br>
-<a href="\crisokonkwo.github.io\_pages\COkonkwo_resume_.pdf" class="button button--large">Download R&eacute;sum&eacute;</a>
+Please feel free to review my resume for considerations.<br>
+<a href="\crisokonkwo.github.io\_pages\COkonkwo_resume_.pdf" class="button button--large" target="_blank">View R&eacute;sum&eacute;</a>
