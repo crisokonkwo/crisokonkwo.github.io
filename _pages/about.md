@@ -18,6 +18,7 @@ Chris's hunger for knowledge and determination to turn information into action h
 2017 - 2019 Associate Computer Scientist, Analytical Systems, Air Force Research Laboratory, Rome, NY <br>
 2019 - 2022 Computer Scientist, Analytical Systems, Air Force Research Laboratory, Rome, NY <br>
 2022 - present Executive Officer to the Director, Information Directorate, Air Force Research Laboratory, Rome, NY <br>
+
 ### Awards and Honors
 2022 Information Directorate Early Career Award, Nominee <br>
 2021 Information Directorate Research and Technology Team Award, Winner <br>
@@ -27,7 +28,8 @@ Chris's hunger for knowledge and determination to turn information into action h
 2016 Cincinnati-Dayton INFORMS Symposium, Presenter <br>
 2015 Dominion Enterprises Hackathon, Winner <br>
 2014 ARTSI Robotics Competition at Tapia, Second place <br>
-2013 RESNA Student Scientific Paper Competition, finalist <br>
+2013 RESNA Student Scientific Paper Competition, Finalist <br>
+
 ### Professional Memberships and Associations
 National Society of Black Engineers, Member <br>
 Association for Computing Machinery, Member <br>
