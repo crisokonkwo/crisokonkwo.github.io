@@ -18,7 +18,7 @@ Chris's hunger for knowledge and determination to turn information into action h
 2017 Master of Science degree: Computer Science and Cyber-Security, Norfolk State University, Norfolk, VA <br>
 2017 - 2019 Associate Computer Scientist, Analytical Systems, Air Force Research Laboratory, Rome, NY <br>
 2019 - 2022 Computer Scientist, Analytical Systems, Air Force Research Laboratory, Rome, NY <br>
-2022 - present Executive Officer for Director, Information Directorate, Air Force Research Laboratory, Rome, NY <br>
+2022 - present Executive Officer to the Director, Information Directorate, Air Force Research Laboratory, Rome, NY <br>
 ### Awards and Honors
 2022 Information Directorate Early Career Award, Nominee <br>
 2021 Information Directorate Research and Technology Team Award, Winner <br>
