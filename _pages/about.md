@@ -4,7 +4,6 @@ subtitle: I'm built from every mistake I have ever made.
 description: 
 featured_image: 
 ---
-
 Christopher Okonkwo is Computer Scientist for Analytical Systems, Information Directorate, Air Force Research Laboratory, Rome, New York. He serves as a researcher and developer in the fields of data analysis, big data, computer, machine learning, artificial intelligence, and information assurance. He is currently the Executive Officer to the Director, Information Directorate, and Commander Air Force Research Laboratory.
 
 Christopher Okonkwo graduated from Norfolk State University with a bachelor's in Computer Science and a Master's in Computer Science focusing on Information Assurance. He began his professional career as an in-house researcher and developer, where he led projects in the areas of 3D information visualization, 3D interaction devices, and synthetic environment generation.
@@ -36,6 +35,6 @@ Association for Computing Machinery, Women in Computing, Supporter/Advocate <br>
 Society of Women Engineers, Member <br>
 
 
-
+><br>
 Please feel free to download my resume for considerations.<br>
 <a href="\crisokonkwo.github.io\_pages\COkonkwo_resume_.pdf" class="button button--large">Download R&eacute;sum&eacute;</a>
