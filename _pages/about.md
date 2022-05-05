@@ -39,4 +39,5 @@ Society of Women Engineers, Member <br>
 
 <br>
 Please feel free to review my resume for considerations.<br>
-<a href="/_pages/COkonkwo_resume_.pdf" target="_blank" rel="noopener noreferrer">View R&eacute;sum&eacute;</a>
+[get the PDF]({{ site.url }}/assets/COkonkwo_resume_.pdf)
+<a href="/assets/COkonkwo_resume_.pdf" target="_blank" rel="noopener noreferrer">View R&eacute;sum&eacute;</a>
