@@ -18,8 +18,7 @@ featured_image:
 2017 - 2019 Associate Computer Scientist, Analytical Systems, Air Force Research Laboratory, Rome, NY <br>
 2019 - 2022 Computer Scientist, Analytical Systems, Air Force Research Laboratory, Rome, NY <br>
 2022 - present Executive Officer for Director/Commander, Information Directorate, Air Force Research Laboratory, Rome, NY <br>
-
-## Awards and Honors
+### Awards and Honors
 2022 Information Directorate Early Career Award, Nominee <br>
 2021 Information Directorate Research and Technology Team Award, Winner <br>
 2019 Information Directorate 3rd Quarter Civilian Category II Award, Winner <br>
@@ -29,8 +28,7 @@ featured_image:
 2015 Dominion Enterprises Hackathon, Winner <br>
 2014 ARTSI Robotics Competition at Tapia, Second place <br>
 2013 RESNA Student Scientific Paper Competition, finalist <br>
-
-## Professional Memberships and Associations
+### Professional Memberships and Associations
 National Society of Black Engineers, Member <br>
 Association for Computing Machinery, Member <br>
 Association for Computing Machinery, Women in Computing, Supporter/Advocate <br>
