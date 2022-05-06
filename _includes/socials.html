@@ -2,8 +2,13 @@
 	{% for url in site.data.settings.social_settings %}
 	{% if url[1] != '' %}
 	<li class="socials__item">
-		<a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
-			<i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i>
+		<a class="socials__item__link" href="{{ url[1] }}" target="_blank" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
+			<svg class="svg-inline--fa fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true">
+			</svg>
+			<svg class="svg-inline--fa fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 512" data-fa-i2svg="">
+				
+			</svg>			
+			<!--i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i-->
 		</a>
 	</li>
 	{% endif %}
