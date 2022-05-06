@@ -4,8 +4,8 @@
 	<li class="socials__item">
 		<a class="socials__item__link" href="{{ url[1] }}" target="_blank" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
 			
-			<svg class="svg-inline--fa fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true" data-prefix="fab" data-icon="{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" role="img">
-				<use xlink:href="{{ '/assets/social-icons.svg#facebook' }}"></use>
+			<svg class="svg-inline--fa fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true" data-prefix="fab" data-icon="{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" role="img" xmlns="http://www.w3.org/2000/svg">
+				<use xlink:href="{{ '/assets/social-icons.svg#' }}""{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}"></use>
 			</svg>
 			
 			<!--i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i-->
