@@ -4,7 +4,7 @@
 	<li class="socials__item">
 		<a class="socials__item__link" href="{{ url[1] }}" target="_blank" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
 			
-			<svg class="svg-icon grey"><use xlink:href="{{ '/assets/social-icons.svg#dribbble' | relative_url }}"></use></svg>
+			<svg class="svg-icon grey"><use xlink:href="{{ '/assets/social-icons.svg#{{ url[0] | remove: '_url' | replace: '-', '' }}' | relative_url }}"></use></svg>
 			
 			<!--i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i-->
 		</a>
