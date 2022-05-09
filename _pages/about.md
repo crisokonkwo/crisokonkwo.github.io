@@ -8,7 +8,7 @@ Christopher Okonkwo is Computer Scientist for Analytical Systems, Information Di
 
 Christopher Okonkwo graduated from Norfolk State University with a bachelor's in Computer Science and a Master's in Computer Science focusing on Information Assurance. He began his professional career as an in-house researcher and developer, where he led projects in the areas of 3D information visualization, 3D interaction devices, and synthetic environment generation.
   
-Chris's hunger for knowledge and determination to turn information into action has contributed to his most recent success at the Air Force Research Laboratory, where he led and was part of award-winning in-house research teams. He has been nominated for an Early Career Award and won civilian of the quarter award for his information visualization and analysis work. As a project leader, he vastly improved his team's productivity by implementing strategic project management methods and ensuring a conducive working environment balance for his team.
+Chris's hunger for knowledge and determination to turn information into action has contributed to his most recent success at the Air Force Research Laboratory, where he led and was part of award-winning in-house research teams. He has been nominated for an Early Career Award and won civilian of the quarter award for his information visualization and analysis work. As a project leader, he vastly improved his team's productivity by implementing strategic project management methods and ensuring a conducive working environment for his team.
 
 
 ## My Career Highlights 
