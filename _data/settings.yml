@@ -29,7 +29,7 @@ post_settings:
 contact_settings:
   form_action: 'https://formspree.io/f/xvovrqkj'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'Contact From crisokonkwo.github.io/contact'
   send_button_text: 'Send Message'
 
 social_settings:
