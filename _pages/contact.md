@@ -1,7 +1,7 @@
 ---
-title: Contact
-subtitle: Feel free to send me a message.
-description: dzfdsfd
+title: 
+subtitle: 
+description:
 featured_image:
 ---
 
