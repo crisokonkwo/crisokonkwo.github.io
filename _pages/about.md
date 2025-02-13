@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: I'm built from every mistake I have ever made.
+subtitle: He who is not courageous enough to take risks will accomplish nothing in life. ---Muhammad Ali
 description: 
 featured_image: 
 ---
