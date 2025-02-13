@@ -1,6 +1,7 @@
 ---
 title: About me
-subtitle: He who is not courageous enough to take risks will accomplish nothing in life. —Muhammad Ali
+subtitle: He who is not courageous enough to take risks will accomplish nothing in life.
+subtitle_: —Muhammad Ali
 description: 
 featured_image: 
 ---
