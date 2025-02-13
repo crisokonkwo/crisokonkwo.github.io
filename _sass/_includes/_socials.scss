@@ -40,8 +40,8 @@
 .socials__item__link {
 	position: relative;
 	display: block;
-	width: 40px;
-	height: 40px;
+	width: 20px;
+	height: 20px;
 	border-radius: 100%;
 	background: $text-light-color;
 	font-size: 20px;
@@ -49,8 +49,8 @@
 	color: $background-color;
 
 	@include mq(tabletp) {
-		width: 50px;
-		height: 50px;
+		width: 25px;
+		height: 25px;
 		font-size: 25px;
 	}
 
